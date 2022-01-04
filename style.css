@@ -10,6 +10,11 @@ body{
     
 }
 
+.image{
+    width: 200px;
+    margin-top:130px;
+}
+
 @media only screen and (min-width: 360px) {
     .container{
         width: 95vw;
@@ -17,6 +22,10 @@ body{
     body{
         width: 100vw;
         font-size: 15px;
+    }
+    .image{
+        width: 100px;
+        margin-top:200px;
     }
   }
 
@@ -27,6 +36,10 @@ body{
     body{
         font-size: 18px;
     }
+    .image{
+        width: 150px;
+        margin-top:130px;
+    }
   }
   @media only screen and (min-width: 600px) {
     .container{
@@ -35,6 +48,10 @@ body{
     body{
         font-size: 15px;
     }
+    .image{
+        width: 120px;
+        margin-top:150px;
+    }
   }
   @media only screen and (min-width: 1024px) {
     .container{
@@ -42,5 +59,9 @@ body{
     }
     body{
         font-size: 25px;
+    }
+    .image{
+        width: 200px;
+        margin-top:100px;
     }
   }
