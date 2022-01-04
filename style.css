@@ -5,13 +5,13 @@
     margin-top: 10px;
 }
 
-body{
-    background-color: rgb(47, 184, 184); 
-}
-
 .image{
     width: 200px;
     margin-top:130px;
+}
+
+body{
+    background-color: rgb(47, 184, 184); 
 }
 
 @media only screen and (min-width: 360px) {
@@ -30,9 +30,10 @@ body{
 
   @media only screen and (min-width: 768px) {
     .container{
-        width: 70vw;
+        width: 80vw;
     }
     body{
+        width: 100vw;
         font-size: 18px;
     }
     .image{
