@@ -2,12 +2,11 @@
     width: 30vw;
     background-color: rgb(248, 246, 244);
     border-radius: 24px;
+    margin-top: 10px;
 }
 
 body{
-    margin-top: 240px;
-    background-color: rgb(47, 184, 184);
-    
+    background-color: rgb(47, 184, 184); 
 }
 
 .image{
